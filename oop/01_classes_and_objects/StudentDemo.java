@@ -12,7 +12,7 @@ public class StudentDemo {
         first.name = "Mia";
 
         Student second = new Student();
-        second.name = "Leo";
+        second.name = "Nina";
 
         first.introduce();
         second.introduce();
